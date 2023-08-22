@@ -1,1 +1,2 @@
 This contains basic description of the project and its files
+Passive optical devices: Waveguide, Grating coupler, coupler, MMI, shallow etched waveguide, thermal phase shifter
